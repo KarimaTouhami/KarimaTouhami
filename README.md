@@ -1,4 +1,4 @@
-<h1>Hello, "KArima" is here!🖤💜</h1>
+<p><span class="animated-text">Hello, </span><span class="animated-name">Karima</span><span class="animated-text"> is here!</span></p>
 
 [<img src="https://github.com/KarimaTouhami/KarimaTouhami/blob/main/Raven%20(1000%20%C3%97%20500%20px)%20(1).gif"/>](https://github.com/KarimaTouhami/KarimaTouhami/blob/main/Raven%20(1000%20%C3%97%20500%20px)%20(1).gif)
   

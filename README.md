@@ -26,10 +26,6 @@ MINISHELL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karimatouhami&hide=Jupyter%20Notebook&layout=compact&theme=gruvbox)](https://github.com/rahulbordoloi/github-readme-stats)
   <br>
-   <h2>My 42Cursus:</h2>
-  
-[![karima's 42 stats](https://badge.mediaplus.ma/kettlebells/aahlyel)](https://github.com/oakoudad/badge42)
- <h3>📫 How to reach me:</h3>
 <p>You can reach me at the following accounts!</p>
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Karima Touhami on LinkedIn" title="Follow Karima Touhami on LinkedIn"/>](https://www.linkedin.com/in/karima-touhami-5b14b4268/)

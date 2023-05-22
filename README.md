@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=#A6ACCD&center=true&vCenter=true&width=440&lines=✨+Hello%2C+I%E2%80%99m+,+Karima+is+here!⭐" /></h1>
+  <h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=#A6ACCD&center=true&vCenter=true&width=440&lines=+Hello%2C+I%E2%80%99m+Karima+is+here!⭐" /></h1>
 </div>
 
 [<img src="https://github.com/KarimaTouhami/KarimaTouhami/blob/main/Raven%20(1000%20%C3%97%20500%20px)%20(1).gif"/>](https://github.com/KarimaTouhami/KarimaTouhami/blob/main/Raven%20(1000%20%C3%97%20500%20px)%20(1).gif)

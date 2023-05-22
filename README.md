@@ -23,5 +23,5 @@
 
 <h2>This is a quick look into my favorite coding languages /Stats:</h2>
 
-![Oumaima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oumaimafisaoui&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oumaimafisaoui&hide=Jupyter%20Notebook&layout)]
+![Karima's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimatouhami&show_icons=true&theme=tomorrow)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karimatouhami&hide=Jupyter%20Notebook&layout=compact&theme=tomorrow)](https://github.com/karimatouhami)

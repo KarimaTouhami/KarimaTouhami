@@ -1,30 +1,38 @@
-<h1>Hello World!🖤💜</h1>
+<h1 align="center">Hello, Karima is here.</h1>
+<h1 align="center">I'm an aspiring full stack engineer, and an IT student at both ALX Africa and SUPTEM 💙</h1>
+<p align="center">
+  <img src="https://github.com/karimatouhami/AhlyelAmine/blob/main/great.gif" alt="loading..." />
+</p>
+<p align="center">
+  <a href=#><img src="contributions.svg"></a>
+</p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/karimatouhami/count.svg" />
+</p>
 
-<h6>(Especially Github dark mode warriors🤗🏴)</h6>
+<h2> Welcome to my Github account where you will find the following topics (and more):</h2>
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karimatouhami&repo=get_next_line&theme=gruvbox)](https://github.com/karimatouhami/get_next_line) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karimatouhami&repo=pipex&theme=gruvbox)](https://github.com/karimatouhami/pipex)
+ <h2>In work:</h2>
+ 
+MINISHELL
 
-<p><span class="animated-text">Hello, </span><span class="animated-name">Karima</span><span class="animated-text"> is here!</span></p>
+ <h2>This is a quick look into my favorite coding languages /Stats:</h2>
+ <p align="left">
+  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/karimatouhami?cardType=github&theme=gruvbox" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karimatouhami&theme=gruvbox" />
+</p>
 
-[![Animated GIF](https://github.com/KarimaTouhami/KarimaTouhami/blob/main/Raven%20(1000%20%C3%97%20500%20px)%20(1).gif)](https://github.com/KarimaTouhami/KarimaTouhami/blob/main/Raven%20(1000%20%C3%97%20500%20px)%20(1).gif)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karimatouhami&hide=Jupyter%20Notebook&layout=compact&theme=gruvbox)](https://github.com/rahulbordoloi/github-readme-stats)
+  <br>
+   <h2>My 42Cursus:</h2>
   
-<!--![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=KarimaTouhami&color=00cf00)-->
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![karima's 42 stats](https://badge.mediaplus.ma/kettlebells/aahlyel)](https://github.com/oakoudad/badge42)
+ <h3>📫 How to reach me:</h3>
+<p>You can reach me at the following accounts!</p>
 
-<div>
-  <p>I'm an aspiring full stack engineer, and an IT student at both ALX Africa and SUPTEM 💙</p>
-</div>
-   
-<h2>Welcome to my Github account where you will find the following topics (and more):</h2>  
-    
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimaTouhami&repo=Push_Swap42&theme=tomorrow_nightblue)](https://github.com/KarimaTouhami/Push_swap42)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimaTouhami&repo=Mini-Talk-42&theme=tomorrow_nightblue)](https://github.com/KarimaTouhami/Mini-Talk-42)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimaTouhami&repo=Get_next_line42&theme=tomorrow_nightblue)](https://github.com/KarimaTouhami/Get_next_line42/settings)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimaTouhami&repo=Minishell-Final&theme=tomorrow_nightblue)](https://github.com/KarimaTouhami/Minishell-Final)
-
-<h2>Some of my ongoing projects:</h2>  
-    
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimaTouhami&repo=Personal-Portfolio-Soon-&theme=tomorrow_nightblue)](https://github.com/KarimaTouhami/Personal-Portfolio-Soon-)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimaTouhami&repo=Personal-Blog-Soon&theme=tomorrow_nightblue)](https://github.com/KarimaTouhami/Personal-Blog-Soon)  
-
-<h2>This is a quick look into my favorite coding languages /Stats:</h2>
-
-![Karima's GitHub stats](https://github-readme-stats.vercel.app/api)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Karima Touhami on LinkedIn" title="Follow Karima Touhami on LinkedIn"/>](https://www.linkedin.com/in/karima-touhami-5b14b4268/)
+<br>
+<br>
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)

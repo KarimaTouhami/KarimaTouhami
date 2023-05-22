@@ -1,27 +1,31 @@
-<h1>Hello, "Karima" is here!⭐ </h1>
+<h1>Hello World!🖤💜</h1>
+              
+<h6>(Especially Github dark mode warriors🤗🏴)</h6>
 
-[<img src="https://github.com/Oumaimafisaoui/Oumaimafisaoui/blob/main/Raven%20(1000%20%C3%97%20500%20px)%20(1).gif"/>](https://github.com/Oumaimafisaoui/Oumaimafisaoui/blob/main/Raven%20(1000%20%C3%97%20500%20px)%20(1).gif)
+<p>My name is "Karima", but you can call me KarimaTouhami!<br><p>
 
-<!--![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Oumaimafisaoui&color=00cf00)!-->
+[<img src="https://github.com/KarimaTouhami/KarimaTouhami/blob/main/Raven%20(1000%20%C3%97%20500%20px)%20(1).gif"/>](https://github.com/KarimaTouhami/KarimaTouhami/blob/main/Raven%20(1000%20%C3%97%20500%20px)%20(1).gif)
+  
+<!--![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=KarimaTouhami&color=00cf00)!-->
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 <div>
-  <p>I'm an aspiring full-stack engineer and an IT student at both ALX Africa and SUPTEM </p>
+  <p>I'm an aspiring full stack engineer, and a computer science student at both UoPeople and 1337 💜</p>
 </div>
+   
+<h2>Welcome to my Github account where you will find the following topics (and more):</h2>  
+    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimaTouhami&repo=Push_Swap42&theme=tomorrow_nightblue)](https://github.com/KarimaTouhami/Push_swap42)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimaTouhami&repo=Mini-Talk-42&theme=tomorrow_nightblue)](https://github.com/KarimaTouhami/Mini-Talk-42)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimaTouhami&repo=Get_next_line42&theme=tomorrow_nightblue)](https://github.com/KarimaTouhami/Get_next_line42/settings)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimaTouhami&repo=Minishell-Final&theme=tomorrow_nightblue)](https://github.com/KarimaTouhami/Minishell-Final)
 
-<h2>Welcome to my GitHub account where you will find the following topics (and more):</h2>
-
-[![Readme Card](https://github.com/KarimaTouhami/alx-low_level_programming#readme)](https://github.com/KarimaTouhami/alx-low_level_programming)
-[![Readme Card](https://github.com/KarimaTouhami/alx-system_engineering-devops#readme)](https://github.com/KarimaTouhami/alx-system_engineering-devops)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=Get_next_line42&theme=midnight-purple)](https://github.com/Oumaimafisaoui/Get_next_line42/settings)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=Minishell-Final&theme=midnight-purple)](https://github.com/Oumaimafisaoui/Minishell-Final)
-
-<h2>Some of my ongoing projects:</h2>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=Personal-Portfolio-Soon-&theme=midnight-purple)](https://github.com/Oumaimafisaoui/Personal-Portfolio-Soon-)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=Personal-Blog-Soon&theme=midnight-purple)](https://github.com/Oumaimafisaoui/Personal-Blog-Soon)
+<h2>Some of my ongoing projects:</h2>  
+    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimaTouhami&repo=Personal-Portfolio-Soon-&theme=tomorrow_nightblue)](https://github.com/KarimaTouhami/Personal-Portfolio-Soon-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimaTouhami&repo=Personal-Blog-Soon&theme=tomorrow_nightblue)](https://github.com/KarimaTouhami/Personal-Blog-Soon)  
 
 <h2>This is a quick look into my favorite coding languages /Stats:</h2>
 
-![Karima's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimatouhami&show_icons=true&theme=tomorrow_nightblue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karimatouhami&hide=Jupyter%20Notebook&layout=compact&theme=tomorrow_nightblue)](https://github.com/karimatouhami)
+![Karima's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarimaTouhami&show_icons=true&theme=tomorrow_nightblue)
+[![Top Langs](https://github-readme-stats.vercel.app

@@ -1,8 +1,4 @@
-<h1>Hello World!🖤💜</h1>
-              
-<h6>(Especially Github dark mode warriors🤗🏴)</h6>
-
-<p>My name is "Karima", but you can call me KarimaTouhami!<br><p>
+<h1>Hello, "KArima" is here!🖤💜</h1>
 
 [<img src="https://github.com/KarimaTouhami/KarimaTouhami/blob/main/Raven%20(1000%20%C3%97%20500%20px)%20(1).gif"/>](https://github.com/KarimaTouhami/KarimaTouhami/blob/main/Raven%20(1000%20%C3%97%20500%20px)%20(1).gif)
   
@@ -10,22 +6,45 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 <div>
-  <p>I'm an aspiring full stack engineer, and a computer science student at both UoPeople and 1337 💜</p>
+  <p>I'm an aspiring full stack engineer, and an IT student at both ALX Africa and SUPTEM </p>
 </div>
    
 <h2>Welcome to my Github account where you will find the following topics (and more):</h2>  
     
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimaTouhami&repo=Push_Swap42&theme=tomorrow_nightblue)](https://github.com/KarimaTouhami/Push_swap42)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimaTouhami&repo=Mini-Talk-42&theme=tomorrow_nightblue)](https://github.com/KarimaTouhami/Mini-Talk-42)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimaTouhami&repo=Get_next_line42&theme=tomorrow_nightblue)](https://github.com/KarimaTouhami/Get_next_line42/settings)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimaTouhami&repo=Minishell-Final&theme=tomorrow_nightblue)](https://github.com/KarimaTouhami/Minishell-Final)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimaTouhami&repo=Push_Swap42&theme=city_lights)](https://github.com/KarimaTouhami/Push_swap42)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimaTouhami&repo=Mini-Talk-42&theme=city_lights)](https://github.com/KarimaTouhami/Mini-Talk-42)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimaTouhami&repo=Get_next_line42&theme=city_lights)](https://github.com/KarimaTouhami/Get_next_line42/settings)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimaTouhami&repo=Minishell-Final&theme=city_lights)](https://github.com/KarimaTouhami/Minishell-Final)
 
 <h2>Some of my ongoing projects:</h2>  
     
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimaTouhami&repo=Personal-Portfolio-Soon-&theme=tomorrow_nightblue)](https://github.com/KarimaTouhami/Personal-Portfolio-Soon-)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimaTouhami&repo=Personal-Blog-Soon&theme=tomorrow_nightblue)](https://github.com/KarimaTouhami/Personal-Blog-Soon)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimaTouhami&repo=Personal-Portfolio-Soon-&theme=city_lights)](https://github.com/KarimaTouhami/Personal-Portfolio-Soon-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimaTouhami&repo=Personal-Blog-Soon&theme=city_lights)](https://github.com/KarimaTouhami/Personal-Blog-Soon)  
 
 <h2>This is a quick look into my favorite coding languages /Stats:</h2>
 
-![Karima's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarimaTouhami&show_icons=true&theme=tomorrow_nightblue)
-[![Top Langs](https://github-readme-stats.vercel.app
+![Karima's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarimaTouhami&show_icons=true&theme=city_lights)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarimaTouhami&hide=Jupyter%20Notebook&layout=compact&theme=tomorrow_nightblue)](https://github.com/KarimaTouhami/github-readme-stats)
+
+- [ ] Finish my Portfolio.
+- [ ] Launch my Blog site.
+- [ ] Finish CodeCademy full stack engineering track.
+- [ ] Finish 100 Problems on Leetcode.
+
+<h3>📫 How to reach me:</h3>
+<p>You can reach me at the following accounts!</p>
+
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow KarimaTouhami on LinkedIn" title="Follow KarimaTouhami on LinkedIn"/>](https://www.linkedin.com/in/karima-touhami/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow KarimaTouhami on Twitter" title="Follow KarimaTouhami on Twitter"/>](https://twitter.com/KarimaTouhami)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow KarimaTouhami on Instagram" title="Follow KarimaTouhami on Instagram"/>](https://instagram.com/KarimaTouhami)
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/karimatouhami/count.svg" />
+</p>
+
+<h6>#Smart-Work</h6>
+
+[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D1026%26project%3D%26in%3D0)](https://codetime.dev)

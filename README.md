@@ -18,8 +18,8 @@
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ Software Engineer Student at 1337 Khouribga
-├─▣ From Tetouan Morocco
+├─▣ Software Engineer and IT student at both ALX africa and SUPTEM
+├─▣ From Tangier Morocco
 ├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
 ├─▣ Interested in low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI.
 │
@@ -29,7 +29,7 @@
 │
 ├─◈ <a href="https://www.linkedin.com/in/achraf-elkhnissi">LinkedIn</a>
 ├─◈ <a href="https://twitter.com/suprivada">Twitter</a>
-├─◈ <a href="https://www.instagram.com/su_privada">Instagram</a>
+├─◈ 
 ├─◈ Discord: suprivada#2244
 │
 └───────────────────────────────▰▰▰

@@ -29,7 +29,7 @@
 │
 ├─◈ <a href="https://www.linkedin.com/in/achraf-elkhnissi">LinkedIn</a>
 ├─◈ <a href="https://twitter.com/suprivada">Twitter</a>
-├─◈ 
+├─◈  
 ├─◈ Discord: suprivada#2244
 │
 └───────────────────────────────▰▰▰

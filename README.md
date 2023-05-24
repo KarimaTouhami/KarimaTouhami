@@ -1,8 +1,5 @@
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=KarimaTouhami&label=Visitors&color=6&icon=5&pretty=true" />
-</a>
 <div align="center">
-	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=Hi%2C+,+%E2%80%9Karima is here." /></h1>
+	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=Hi%2C+Karima is here." /></h1>
 
 ## root:~$ whoami
 > Software engineer student at [Alx Africa](https://www.alxafrica.com) \

@@ -1,11 +1,34 @@
-</p>
-<p align="center">  
-<img src ="https://cdn.dribbble.com/users/2495095/screenshots/6022014/media/bde6ebc855e312547d5f791f427de779.gif">
-</p>
+<div style="position: relative;">
+  <div style="width: 100%; height: 2px; background-color: #000;"></div>
+  <div style="position: absolute; top: 0; left: 0; width: 0%; height: 2px; background-color: #f00;">
+    <div style="width: 100%; height: 100%; background-color: #f00;">
+      <style>
+        @keyframes animateLine {
+          0% {
+            width: 0%;
+          }
+          100% {
+            width: 100%;
+          }
+        }
+
+        div:nth-child(2) {
+          animation: animateLine 2s linear infinite;
+        }
+      </style>
+    </div>
+  </div>
+</div>
+
 
 ## root:~$ whoami
->  Software engineer student at [1337](https://1337.ma/en/) \
->  “Don’t wait for things to happen. Make them happen.” - Roy Bennett 
+>  Software engineer student at [Alx Africa](https://www.alxafrica.com) \
+>  “Change may not always bring growth, but there is no growth without change.” - Roy Bennett 
+
+
+<p align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/ael-khni" alt="ael-khni's 42 stats" /></a>
+</p>
 
 
 
@@ -16,7 +39,7 @@
 ├─▣ Software Engineer and IT student at both ALX africa and SUPTEM
 ├─▣ From Tangier Morocco
 ├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
-├─▣ Interested in low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI.
+├─▣ Interested in full-stack development, artificial intelligence, human-computer interactions, and everything in between.
 │
 └───────────────────────────────▰▰▰
 
@@ -24,7 +47,7 @@
 │
 ├─◈ <a href="https://www.linkedin.com/in/achraf-elkhnissi">LinkedIn</a>
 ├─◈ <a href="https://twitter.com/suprivada">Twitter</a>
-├─◈  
+├─◈ 
 ├─◈ Discord: suprivada#2244
 │
 └───────────────────────────────▰▰▰

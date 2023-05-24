@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=3AAEDA&center=true&vCenter=true&width=440&lines=Hi%2C+Karima+is+here.&loop=false" />
+  <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=3AAEDA&center=true&vCenter=true&width=440&lines=Hi%2C+Karima+is+here.&speed=50" />
 </h1>
 
 ## root:~$ whoami

@@ -1,6 +1,7 @@
-<h1 align="center">
-  <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=Hi%2C+Karima+is+here." />
+<h1 align="left">
+  <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=3AAEDA&center=true&vCenter=true&width=440&lines=Hi%2C+Karima+is+here.&speed=100" />
 </h1>
+
 ## root:~$ whoami
 > Software engineer student at [Alx Africa](https://www.alxafrica.com) \
 > “Change may not always bring growth, but there is no growth without change.” - Roy Bennett 

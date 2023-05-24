@@ -26,38 +26,15 @@
 ├─◈ Discord: HD 40307g#3027
 │
 └───────────────────────────────▰▰▰
-
-┌──┤ 42 PROJECTS ├───────▰▰▰
-│
-├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/Piscine-2021">Piscine 2021</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/libft">libft</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/get_next_line">get_next_line</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/ft_printf">ft_printf</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/Born2beRoot">Born2beRoot</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/minitalk">minitalk</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/so_long">so_long</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/push_swap">push_swap</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/Philosophers">Philosophers</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/minishell">minishell</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/cub3d">Cub3D</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/CPP_Modules">CPP_Modules</a>
-│
-└───────────────────────────────▰▰▰
-
+#
 
 ┌──┤ ALX PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/achrafelkhnissi/alx-low_level_programming">alx-low_level_programming</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/alx-system_engineering-devops">alx-system_engineering-devops</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/alx-checker">alx-checker</a>
-│
-└───────────────────────────────▰▰▰
-
-
-┌──┤ COMMUNITY ├─────────▰▰▰
-│
-├─◈ If you need any help please join our community.
-├─◈ <a href="https://discord.gg/vTvkDgsS6J">Discord Server</a>
+├─◈ <a href="https://github.com/KarimaTouhami/alx-low_level_programming">alx-low_level_programming</a>
+├─◈ <a href="https://github.com/KarimaTouhami/alx-system_engineering-devops">alx-system_engineering-devops</a>
+├─◈ <a href="https://github.com/KarimaTouhami/ALX-shell-basics">alx-shell-basics</a>
+├─◈ <a href="https://github.com/KarimaTouhami/alx-zero_day">alx-zero_day</a>
+├─◈ <a href="https://github.com/KarimaTouhami/alx-pre_course">alx-pre_course</a>
 │
 └───────────────────────────────▰▰▰
 

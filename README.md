@@ -22,14 +22,8 @@
 
 
 ## root:~$ whoami
->  Software engineer student at [Alx Africa](https://www.alxafrica.com) \
->  “Change may not always bring growth, but there is no growth without change.” - Roy Bennett 
-
-
-<p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/ael-khni" alt="ael-khni's 42 stats" /></a>
-</p>
-
+> Software engineer student at [Alx Africa](https://www.alxafrica.com) \
+> “Change may not always bring growth, but there is no growth without change.” - Roy Bennett 
 
 
 <pre>

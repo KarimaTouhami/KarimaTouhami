@@ -13,7 +13,7 @@
 │
 ├─▣ Software Engineer and IT student at both ALX africa and SUPTEM
 ├─▣ From Tangier Morocco
-├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
+├─▣ I love embracing daily challenges, delving into complex problems, and seeking efficient solutions.
 ├─▣ Interested in full-stack development, artificial intelligence, human-computer interactions, and everything in between.
 │
 └───────────────────────────────▰▰▰

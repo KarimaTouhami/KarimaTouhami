@@ -66,7 +66,7 @@
 |:-:|:-:|
 
 <p align="center">
-	<img alt="achrafelkhnissi's visitors" src="https://komarev.com/ghpvc/?username=achrafelkhnissi&color=8c36db&style=flat&label=visitors" />
-	<img alt="achrafelkhnissi's followers" src="https://img.shields.io/github/followers/achrafelkhnissi?color=blueviolet" />
-	<img alt="achrafelkhnissi's stars" src="https://img.shields.io/github/stars/achrafelkhnissi?color=blueviolet" />
+	<img alt="Karima's visitors" src="https://komarev.com/ghpvc/?username=KarimaTouhami&color=8c36db&style=flat&label=visitors" />
+	<img alt="Karima's followers" src="https://img.shields.io/github/followers/KarimaTouhami?color=blueviolet" />
+	<img alt="Karima's stars" src="https://img.shields.io/github/stars/KarimaTouhami?color=blueviolet" />
 </p>

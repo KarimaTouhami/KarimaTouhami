@@ -63,8 +63,7 @@
 
 ---------------
 | ![Karima's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarimaTouhami&show_icons=true&theme=github_dark_dimmed)
-(https://github.com/karimatouhami?tab=repositories) | ([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarimaTouhami&layout=pie&theme=github_dark_dimmed)](https://github.com/KarimaTouhami/github-readme-stats)
- |
+(https://github.com/karimatouhami?tab=repositories) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarimaTouhami&hide=Jupyter%20Notebook&layout=compact&theme= github_dark_dimmed)](https://github.com/rahulbordoloi/github-readme-stats) |
 |:-:|:-:|
 
 <p align="center">

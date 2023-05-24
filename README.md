@@ -1,24 +1,6 @@
-<div style="position: relative;">
-  <div style="width: 100%; height: 2px; background-color: #000;"></div>
-  <div style="position: absolute; top: 0; left: 0; width: 0%; height: 2px; background-color: #f00;">
-    <div style="width: 100%; height: 100%; background-color: #f00;">
-      <style>
-        @keyframes animateLine {
-          0% {
-            width: 0%;
-          }
-          100% {
-            width: 100%;
-          }
-        }
-
-        div:nth-child(2) {
-          animation: animateLine 2s linear infinite;
-        }
-      </style>
-    </div>
-  </div>
-</div>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=KarimaTouhami&label=Visitors&color=6&icon=5&pretty=true" />
+</a>
 
 
 ## root:~$ whoami

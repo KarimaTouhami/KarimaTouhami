@@ -62,7 +62,7 @@
 </p>
 
 ---------------
-| [![Karima's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarimaTouhami&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=github_dark)](https://github.com/KarimaTouhami?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarimaTouhami&layout=compact&hide_border=true&theme=github_dark)](https://github.com/KarimaTouhami?tab=repositories) |
+| [![Karima's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarimaTouhami&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=github_dark)](https://github.com/KarimaTouhami?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarimaTouhami&layout=compact&hide_border=true&theme=github_dark)](https://github.com/karimatouhami?tab=repositories) |
 |:-:|:-:|
 
 <p align="center">

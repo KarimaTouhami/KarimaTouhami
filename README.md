@@ -43,7 +43,7 @@
 --------------
 
 <p align="center">
-	<a href="mailto:achraf.elkhnissi@icloud.com">
+	<a href="karimatouhami246@gmail.com">
 		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:achraf.elkhnissi@gmail.com&color=3d85c6" />
 	</a>
 	<span> * </span>

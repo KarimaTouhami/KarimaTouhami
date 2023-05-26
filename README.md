@@ -22,7 +22,7 @@
 │
 ├─◈ <a href="https://www.linkedin.com/in/karima-touhami-5b14b4268/">LinkedIn</a>
 ├─◈ <a href="https://twitter.com/KarimaTouhami">Twitter</a>
-├─◈ <a href="karimatouhami246@gmail.com">Say Hi!</a>
+├─◈ <a href="mailto:karimatouhami246@gmail.com">Say Hi!</a>
 ├─◈ Discord: HD 40307g#3027
 │
 └───────────────────────────────▰▰▰
@@ -32,7 +32,7 @@
 │
 ├─◈ <a href="https://github.com/KarimaTouhami/alx-low_level_programming">alx-low_level_programming</a>
 ├─◈ <a href="https://github.com/KarimaTouhami/alx-system_engineering-devops">alx-system_engineering-devops</a>
-├─◈ <a href="https://github.com/KarimaTouhami/ALX-shell-basics">alx-shell-basics</a>
+├─◈ <a href="https://github.com/KarimaTouhami/alx-shell-basics">alx-shell-basics</a>
 ├─◈ <a href="https://github.com/KarimaTouhami/alx-zero_day">alx-zero_day</a>
 ├─◈ <a href="https://github.com/KarimaTouhami/alx-pre_course">alx-pre_course</a>
 │
@@ -43,7 +43,7 @@
 --------------
 
 <p align="center">
-	<a href="karimatouhami246@gmail.com">
+	<a href="mailto:karimatouhami246@gmail.com">
 		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:karimatouhami246@gmail.com&color=3d85c6" />
 	</a>
 	<span> * </span>

@@ -63,7 +63,7 @@
 
 ---------------
 | [![Karima's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarimaTouhami&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=github_dark_dimmed)](https://github.com/KarimaTouhami?tab=repositories) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarimaTouhami&layout=compact&hide_border=true&theme=github_dark_dimmed)](https://github.com/KarimaTouhami?tab=repositories) |
-|:-:|:-:|
+|:-:|:-:| 
 
 <p align="center">
 	<img alt="Karima's visitors" src="https://komarev.com/ghpvc/?username=KarimaTouhami&color=8c36db&style=flat&label=visitors" />

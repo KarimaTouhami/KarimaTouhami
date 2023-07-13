@@ -11,8 +11,8 @@
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ Software Engineer and IT student at both ALX africa and SUPTEM
-├─▣ From Tangier, Morocco
+├─▣ Software Engineer and IT student at both ALX africa and SUPTEM.
+├─▣ From Tangier, Morocco.
 ├─▣ I love embracing daily challenges, delving into complex problems, and seeking efficient solutions.
 ├─▣ Interested in full-stack development, artificial intelligence, human-computer interactions, and everything in between.
 │

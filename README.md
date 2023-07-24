@@ -36,6 +36,11 @@
 ├─◈ <a href="https://github.com/KarimaTouhami/alx-zero_day">alx-zero_day</a>
 ├─◈ <a href="https://github.com/KarimaTouhami/alx-pre_course">alx-pre_course</a>
 ├─◈ <a href="https://github.com/KarimaTouhami/printf">printf</a>
+│
+└───────────────────────────────▰▰▰
+
+┌──┤ SIDE PROJECTS ├───────▰▰▰
+│
 ├─◈ <a href="https://github.com/KarimaTouhami/Flutter-app-project">Flutter app</a>
 │
 └───────────────────────────────▰▰▰

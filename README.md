@@ -41,7 +41,7 @@
 
 ┌──┤ SIDE PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/KarimaTouhami/Flutter-app-project">Flutter app</a>
+├─◈ <a href="https://github.com/KarimaTouhami/Flutter-api">Flutter app</a>
 │
 └───────────────────────────────▰▰▰
 

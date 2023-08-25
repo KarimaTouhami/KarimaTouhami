@@ -40,6 +40,13 @@
 │
 └───────────────────────────────▰▰▰
 
+┌──┤ SIDE PROJECTS ├───────▰▰▰
+│
+├─◈ <a href="https://github.com/KarimaTouhami/flutter-api">Integrate API into an e-commerce app</a>
+├─◈ <a href="https://github.com/KarimaTouhami/Very-little-projects">very little projects</a>
+│
+└───────────────────────────────▰▰▰
+
 </pre>
 
 --------------

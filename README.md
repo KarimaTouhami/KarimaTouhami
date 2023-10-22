@@ -28,9 +28,8 @@
 
 </pre>
 
-<!-- Add the Snake game here -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/KarimaTouhami/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---------------

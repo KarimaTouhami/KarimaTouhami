@@ -6,7 +6,6 @@
 > Software engineer student at [Alx Africa](https://www.alxafrica.com) \
 > “Change may not always bring growth, but there is no growth without change.” - Roy Bennett 
 
-
 <pre>
 
 ┌──┤ WHOAMI ├─────────▰▰▰
@@ -27,28 +26,15 @@
 │
 └───────────────────────────────▰▰▰
 
-
-┌──┤ ALX PROJECTS ├───────▰▰▰
-│
-├─◈ <a href="https://github.com/KarimaTouhami/alx-low_level_programming">ALX low level programming' projects</a>
-├─◈ <a href="https://github.com/KarimaTouhami/simple_shell">Simple Shell</a>
-├─◈ <a href="https://github.com/KarimaTouhami/printf">Printf</a>
-├─◈ <a href="https://github.com/KarimaTouhami/alx-system_engineering-devops">ALX system engineering devops</a>
-├─◈ <a href="https://github.com/KarimaTouhami/alx-shell-basics">ALX Shell basics</a>
-├─◈ <a href="https://github.com/KarimaTouhami/alx-zero_day">ALX zero day</a>
-├─◈ <a href="https://github.com/KarimaTouhami/alx-pre_course">ALX pre course</a>
-│
-└───────────────────────────────▰▰▰
-
-┌──┤ SIDE PROJECTS ├───────▰▰▰
-│
-├─◈ <a href="https://github.com/KarimaTouhami/flutter-api">Integrate API into an e-commerce app</a>
-│
-└───────────────────────────────▰▰▰
-
 </pre>
 
+<!-- Add the Snake game here -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+</div>
+
 ---------------
+
 | [![Karima's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarimaTouhami&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=github_dark_dimmed)](https://github.com/KarimaTouhami?tab=repositories) | [![Karima's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarimaTouhami&layout=compact&hide_border=true&theme=github_dark_dimmed)](https://github.com/KarimaTouhami?tab=repositories) |
 |:-:|:-:| 
 

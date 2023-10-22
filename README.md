@@ -58,3 +58,11 @@
 	<img alt="Karima's followers" src="https://img.shields.io/github/followers/KarimaTouhami?color=blueviolet" />
 	<img alt="Karima's stars" src="https://img.shields.io/github/stars/KarimaTouhami?color=blueviolet" />
 </p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###

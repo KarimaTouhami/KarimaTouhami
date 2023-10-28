@@ -3,8 +3,7 @@
 </h1>
 
 ## root:~$ whoami
-> Software engineer student at [Alx Africa](https://www.alxafrica.com) \
-> “Change may not always bring growth, but there is no growth without change.” - Roy Bennett 
+> Software engineer student at [Alx Africa](https://www.alxafrica.com) 
 
 <pre>
 

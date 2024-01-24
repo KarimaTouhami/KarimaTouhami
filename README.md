@@ -21,7 +21,7 @@
 ├─◈ <a href="https://www.linkedin.com/in/karima-touhami-5b14b4268/">LinkedIn</a>
 ├─◈ <a href="https://twitter.com/KarimaTouhami">Twitter</a>
 ├─◈ <a href="mailto:karimatouhami246@gmail.com">Say Hi!</a>
-├─◈ Discord: hd40307g
+├─◈ Discord: HD40307g
 │
 └───────────────────────────────▰▰▰
 

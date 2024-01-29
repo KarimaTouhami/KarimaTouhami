@@ -16,7 +16,7 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ SOCIAL ├─────────▰▰▰
+┌──┤ SOCIALS ├─────────▰▰▰
 │
 ├─◈ <a href="https://www.linkedin.com/in/karima-touhami-5b14b4268/">LinkedIn</a>
 ├─◈ <a href="https://twitter.com/KarimaTouhami">Twitter</a>

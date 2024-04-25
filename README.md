@@ -20,3 +20,7 @@ I'm primarily interested in **full-stack development**, artificial intelligence,
 	<img alt="Karima's followers" src="https://img.shields.io/github/followers/KarimaTouhami?color=blueviolet" />
 	<img alt="Karima's stars" src="https://img.shields.io/github/stars/KarimaTouhami?color=blueviolet" />
 </p>
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@pufficats/30-nites-of-code)  
+  ![@pufficats #30NitesOfCode](https://www.codedex.io/api/petStatus?user=pufficats)

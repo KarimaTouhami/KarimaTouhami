@@ -19,6 +19,7 @@ I'm primarily interested in **full-stack development**, artificial intelligence,
 	<img alt="Karima's visitors" src="https://komarev.com/ghpvc/?username=KarimaTouhami&color=8c36db&style=flat&label=visitors" />
 	<img alt="Karima's followers" src="https://img.shields.io/github/followers/KarimaTouhami?color=blueviolet" />
 	<img alt="Karima's stars" src="https://img.shields.io/github/stars/KarimaTouhami?color=blueviolet" />
+  <a href="https://github.com/karim-eg/StandWithPalestine"><img src="https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_badge.svg"></a>
 </p>
 
 ## #30NitesOfCode:

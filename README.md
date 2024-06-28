@@ -22,6 +22,3 @@ I'm primarily interested in **full-stack development**, artificial intelligence,
   <a href="https://github.com/karim-eg/StandWithPalestine"><img src="https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_badge.svg"></a>
 </p>
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@pufficats/30-nites-of-code)  
-  ![@pufficats #30NitesOfCode](https://www.codedex.io/api/petStatus?user=pufficats)

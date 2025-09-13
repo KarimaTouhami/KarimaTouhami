@@ -2,7 +2,7 @@
   <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=e9c46a&center=false&vCenter=true&width=440&lines=Hi%2C+Karima+is+here.&speed=50" />
 </h1>
 
-I'm **Karima**, a software engineering student from Tangier, Morocco.
+I'm **Karima**, a software engineer based in Tangier, Morocco.
 
 I'm primarily interested in **full-stack development**, artificial intelligence, human-computer interactions, and everything in between.
 

@@ -1,6 +1,4 @@
-<h1 align="left">
-  <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=e9c46a&center=false&vCenter=true&width=440&lines=Hi%2C+Karima+is+here.&speed=50" />
-</h1>
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 I'm **Karima**, a software engineer based in Tangier, Morocco.
 

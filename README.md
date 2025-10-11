@@ -2,7 +2,7 @@
 
 I'm **Karima**, a software engineer based in Tangier, Morocco.
 
-I'm primarily interested in **full-stack development**, artificial intelligence, human-computer interactions, and everything in between.
+I'm primarily interested in artificial intelligence, human-computer interaction, and the creative side of software development.
 
 ## Let's connect!
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@karimatouhami)

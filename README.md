@@ -7,3 +7,6 @@ I'm primarily interested in artificial intelligence, human-computer interaction,
 ## Let's connect!
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@karimatouhami)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/karimatouhami/)
+
+![Karima's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimatouhami&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karimatouhami&layout=compact&theme=radical)

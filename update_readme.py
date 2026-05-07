@@ -11,7 +11,7 @@ status_messages = [
 
 now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 message = random.choice(status_messages)
-content_to_insert = f"**Last Pulse:** {now} | **Status:** {message}"
+content_to_insert = f"_Last Pulse: {now} | Status: {message}_"
 
 with open("README.md", "r") as f:
     readme = f.read()

@@ -1,7 +1,3 @@
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
-
-I'm **Karima**, a software engineer based in Tangier, Morocco. 🇲🇦
-
 I sit at the intersection of logic and creativity, focusing on **Artificial Intelligence**, **Human-Computer Interaction (HCI)**, and the artistic side of software development. I love turning complex logic into seamless, beautiful user experiences.
 
 ### Let's connect!
